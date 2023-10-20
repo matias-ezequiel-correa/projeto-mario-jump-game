@@ -1,14 +1,14 @@
-@media (max-width: 620px){
+@media (max-width: 769px) {
     .mario{
-        width: 110px;
-        position: absolute;
-        bottom: 0px;
+        width: 90px;
     }
 
     .pipe{
-        position: absolute;
-        bottom: 0;
         width: 50px;
         animation: pipe-animation 1s infinite linear;
+    }
+
+    .jump {
+        animation: jump-mobile 500ms ease-out;
     }
 }
