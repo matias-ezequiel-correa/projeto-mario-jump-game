@@ -98,22 +98,6 @@ header .titulo .logo-mario {
     cursor: pointer;
 }
 
-@media (max-width: 620px){
-    .mario{
-        width: 110px;
-        position: absolute;
-        bottom: 0px;
-    }
-
-    .pipe{
-        position: absolute;
-        bottom: 0;
-        width: 50px;
-        animation: pipe-animations 1s infinite linear;
-    }
-}
-
-
 .footer{
     position: fixed;
     bottom: 0;
