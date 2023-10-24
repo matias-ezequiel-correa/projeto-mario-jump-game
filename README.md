@@ -10,7 +10,7 @@
 
 ## Desing: 
 * Desktop:
-[<p align="center"><img height="450em" src="./src/design/projeto-mario-jump-desktop-video.gif" alt="Projeto Mario JUmp! - Versão Desktop">](https://matias-ezequiel-correa.github.io/projeto-mario-jump-game/)<p>
+[<p align="center"><img height="400em" src="./src/design/projeto-mario-jump-desktop-video.gif" alt="Projeto Mario JUmp! - Versão Desktop">](https://matias-ezequiel-correa.github.io/projeto-mario-jump-game/)<p>
 
 * Mobile:
 [<p align="center"><img width=300 src="./src/design/projeto-mario-jump-mobile.png" alt="Projeto Mario Jump! - Versão Mobile">](https://matias-ezequiel-correa.github.io/projeto-mario-jump-game/)<p>
