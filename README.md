@@ -13,7 +13,7 @@
 [<p align="center"><img height="400em" src="./src/design/projeto-mario-jump-desktop-video.gif" alt="Projeto Mario JUmp! - Versão Desktop">](https://matias-ezequiel-correa.github.io/projeto-mario-jump-game/)<p>
 
 * Mobile:
-[<p align="center"><img width=250 src="./src/design/projeto-mario-jump-mobile.PNG" alt="Projeto Mario Jump! - Versão Mobile">](https://matias-ezequiel-correa.github.io/projeto-mario-jump-game/)<p>
+[<p align="center"><img width=250 src="./src/design/projeto-mario-jump-mobile.png" alt="Projeto Mario Jump! - Versão Mobile">](https://matias-ezequiel-correa.github.io/projeto-mario-jump-game/)<p>
 
 ### 🔗 Link do Projeto: <a href="https://matias-ezequiel-correa.github.io/projeto-mario-jump-game/" target="_blank">matias-ezequiel-correa.github.io/projeto-mario-jump-game/</a>
 
