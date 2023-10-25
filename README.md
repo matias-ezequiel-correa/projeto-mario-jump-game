@@ -5,7 +5,7 @@
    Projeto "Super Mario Jump | The Videogame" 🍄🕹️
 </h1>
 <p align="center">
-  Este é um projeto sobre <a href="https://matias-ezequiel-correa.github.io/projeto-mario-jump-game/" target="_blank">Super Mario Jump! | The VideoGame,</a> realizado com HTML, CSS e JavaScript, atualmente hospedado no <a href="https://github.com/matias-ezequiel-correa">GitHub-Pages</a>.
+  Este é um projeto sobre um jogo de corrida infinita do <a href="https://matias-ezequiel-correa.github.io/projeto-mario-jump-game/" target="_blank">Super Mario Jump! | The VideoGame,</a> inspirado no famoso Chrome Dino, criado com HTML, CSS e JavaScript, atualmente hospedado no <a href="https://github.com/matias-ezequiel-correa">GitHub-Pages</a>.
 </p>
 
 ## Desing: 
