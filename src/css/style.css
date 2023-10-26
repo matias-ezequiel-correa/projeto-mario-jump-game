@@ -36,7 +36,7 @@ header .titulo .logo-mario {
 }
 
 .pipe-animation {
-    animation: pipe-animation 2s infinite linear;
+    animation: pipe-animation 1.5s infinite linear;
 }
 
 .advice-text {
