@@ -35,7 +35,7 @@ header .titulo .logo-mario {
     animation: pipe-animation 2s infinite linear;
 }
 
-.advice-text{
+.advice-text {
     display: flex;
     justify-content: center;
     text-align: center;
