@@ -32,6 +32,10 @@ header .titulo .logo-mario {
     position: absolute;
     bottom: 0;
     width: 80px;
+/*     animation: pipe-animation 2s infinite linear; */
+}
+
+.pipe-animation {
     animation: pipe-animation 2s infinite linear;
 }
 
