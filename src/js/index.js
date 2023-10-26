@@ -4,19 +4,19 @@ const clouds = document.querySelector('.clouds');
 const gameOver = document.querySelector('.game-over');
 const restartButton = document.querySelector('.restart');
 
-const start = document.querySelector('.start')
+// const start = document.querySelector('.start')
 
-const startGame = () => {
-    pipe.classList.add('pipe-animation')
-    start.style.display = 'none'
-}
+// const startGame = () => {
+//     pipe.classList.add('pipe-animation')
+//     start.style.display = 'none'
+// }
 
-document.addEventListener('keypress', e => {
-    const tecla = e.key
-    if (tecla === 'Enter') {
-        startGame()
-    }
-})
+// document.addEventListener('keypress', e => {
+//     const tecla = e.key
+//     if (tecla === 'Enter') {
+//         startGame()
+//     }
+// })
 
 //score element
 const scoreElement = document.querySelector(".score-number");
