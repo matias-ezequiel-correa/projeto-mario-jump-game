@@ -71,7 +71,7 @@ const loop = setInterval(() => {
 const restart = () => {
     gameOver.style.visibility = 'hidden';
 
-    pipe.style.animation = 'pipe-animation 2s infinite linear';
+    pipe.style.animation = 'pipe-animation 1s infinite linear';
     pipe.style.left = ``;
 
     mario.src = './src/images/mario.gif';
