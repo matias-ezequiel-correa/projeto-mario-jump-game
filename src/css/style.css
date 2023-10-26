@@ -35,6 +35,17 @@ header .titulo .logo-mario {
     animation: pipe-animation 2s infinite linear;
 }
 
+.advice-text{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 15px;
+    text-shadow: 2px 2px 5px #000;
+    color: #fff;
+    padding: 20px;
+}
+
 .mario {
     width: 150px;
     position: absolute;
