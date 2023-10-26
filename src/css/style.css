@@ -57,7 +57,7 @@ header .titulo .logo-mario {
 }
 
 .jump {
-    animation: jump 700ms ease-out;
+    animation: jump 600ms ease-out;
 }
 
 .clouds {
